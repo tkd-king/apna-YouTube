@@ -3,9 +3,14 @@
   "version": "1.0.0",
   "description": "new backend project kio k pehla project mn bug aya jo mn haftaa pora solve nahe kr saka",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "node src/index.js"
   },
   "author": "usama",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4",
+    "prettier": "^3.3.3"
+  }
 }
