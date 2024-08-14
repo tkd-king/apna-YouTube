@@ -1,0 +1,11 @@
+{
+  "name": "replace-backend-project",
+  "version": "1.0.0",
+  "description": "new backend project kio k pehla project mn bug aya jo mn haftaa pora solve nahe kr saka",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "usama",
+  "license": "ISC"
+}
